@@ -105,7 +105,7 @@
     "invariant": "2.2.2",
     "inversify": "4.11.1",
     "jest-editor-support": "23.6.0",
-    "js-yaml": "3.11.0",
+    "js-yaml": "3.13.1",
     "jschardet": "1.6.0",
     "jscodeshift": "0.5.1",
     "json-stringify-safe": "5.0.1",
