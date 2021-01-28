@@ -72,7 +72,7 @@
     "dompurify": "1.0.3",
     "dotenv": "5.0.1",
     "double-ended-queue": "2.1.0-0",
-    "electron": "^3.0.0",
+    "electron": "^9.4.0",
     "electron-default-menu": "1.0.1",
     "electron-settings": "3.2.0",
     "electron-window-state": "^4.1.1",
